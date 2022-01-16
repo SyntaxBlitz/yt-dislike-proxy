@@ -1,0 +1,17 @@
+{
+  "name": "yt-dislike-proxy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {},
+  "author": "Timothy J. Aveni",
+  "license": "MIT",
+  "dependencies": {
+    "buffer-xor": "^2.0.2",
+    "express": "^4.17.2",
+    "futoin-hkdf": "^1.4.3",
+    "http-parser-js": "^0.5.5",
+    "http-proxy": "^1.18.1",
+    "smart-buffer": "^4.2.0"
+  }
+}
